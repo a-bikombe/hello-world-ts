@@ -1,5 +1,5 @@
 const helloWorlds = document.querySelectorAll('.hello-world');
-let headerContent: string = 'Hello World';
+let headerContent = 'Hello World';
 
 helloWorlds.forEach(helloWorld => {
 	helloWorld.textContent = headerContent;
