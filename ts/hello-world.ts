@@ -1,6 +1,6 @@
-"use strict";
 const helloWorlds = document.querySelectorAll('.hello-world');
-let headerContent = 'Hello World';
+let headerContent: string = 'Hello World';
+
 helloWorlds.forEach(helloWorld => {
-    helloWorld.textContent = headerContent;
+	helloWorld.textContent = headerContent;
 });
