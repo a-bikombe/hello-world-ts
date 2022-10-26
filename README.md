@@ -13,7 +13,7 @@ Hello World using TypeScript.
 ## Getting Started
 
 To Build:
-`tsc hello-world.ts`
+`tsc js/hello-world.ts`
 
 Deployment: [GitHub Pages](https://a-bikombe.github.io/hello-world-ts/)
 
